@@ -1,0 +1,17 @@
+{
+  "version": "0.3",
+  "license": "MIT",
+  "extract_dir": "",
+  "description": "Plume is a lightweight programming language that aims to be portable, powerful and easy to learn.",
+  "url": "https://github.com/plume-lang/plume/releases/download/0.3/plume-windows-latest.zip",
+  "homepage": "https://github.com/plume-lang/plume",
+  "hash": "",
+  "bin": [
+    "bin\\plume.exe",
+    "bin\\plumec.exe"
+  ],
+  "env_add_path": "bin",
+  "env_set": {
+    "PLUME_PATH": "$dir\\standard"
+  }
+}
