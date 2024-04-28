@@ -1,9 +1,9 @@
 {
-    "version": "0.6.1",
+    "version": "0.6.2",
     "license": "MIT",
     "extract_dir": "",
-    "description": "Plume is a lightweight programming language that aims to be portable, powerful and easy to learn.",
-    "url": "https://github.com/plume-lang/plume/releases/download/0.6.1/plume-windows-latest.zip",
+    "description": "Plume is a lightweight programming language that aims to be portable, powerful, and easy to learn.",
+    "url": "https://github.com/plume-lang/plume/releases/download/0.6.2/plume-windows-latest.zip",
     "homepage": "https://github.com/plume-lang/plume",
     "hash": "",
     "bin": [
